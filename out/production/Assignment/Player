@@ -1,0 +1,19 @@
+
+public class Player {
+	protected String[] inventory;
+	//protected timer timeTaken;
+	
+	//Returns player X position
+	public int getPlayerPosX() {
+		int posX = this.posX;
+		return posX;
+	}
+	
+	//Returns player Y position
+	public int getPlayerPosY() {
+		int posY = this.posY;
+		return posY;
+	}
+	
+	
+}
