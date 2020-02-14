@@ -11,7 +11,7 @@ Implemented:
   of the game and save/load their game
 - An inventory view, which shows the inventory of the player
 
-Most images are found from the internet and other games.
+Most images are found in the internet and other games.
 
 Overall mark for the assignment: 75/100
 
